@@ -37,7 +37,7 @@ namespace ConsoleAppModul17_SOLID
                     calculateExec.AccountLanding(new CalculateSalary(), account);
                 }
 
-                Console.WriteLine();
+                Console.WriteLine(); 
             }
          }
      }
